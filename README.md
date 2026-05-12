@@ -9,8 +9,8 @@ Dashboard interactivo para explorar y analizar los 151 Pokémon de la región de
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <url-del-repo>
-cd <nombre-del-repo>
+git clone https://github.com/L0rdxavi97/Dashboard_Pokemon_Streamlit
+cd Dashboard_Pokemon_Streamlit
 ```
 
 ### 2. Instalar dependencias
