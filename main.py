@@ -97,6 +97,7 @@ with col_stats:
         orientation='h',
         labels={'x': 'Puntos', 'y': 'Estadística'},
         color=valores,
+        range_color=[0, 255],
         color_continuous_scale='Viridis',
         template="plotly_dark"   # fondo oscuro, más limpio visualmente
     )
