@@ -2,6 +2,8 @@
 
 Dashboard interactivo para explorar y analizar los 151 Pokémon de la región de Kanto, construido con **Streamlit** y **Plotly**.
 
+### *[Enlace a Dashboard](https://dashboardpokemonapp.streamlit.app/)*
+
 ---
 
 ## 🚀 Instalación y puesta en marcha
